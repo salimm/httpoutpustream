@@ -5,7 +5,7 @@ Created on Jan 4, 2018
 '''
 
 import unittest
-from httpoutputsteam.stream import HttpBufferedOutstream
+from httpoutputstream.stream import HttpBufferedOutstream
 
 
 class FakeHttp():
